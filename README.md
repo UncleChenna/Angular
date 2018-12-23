@@ -1,1 +1,2 @@
-# Angular
+the problem is in app.module.ts
+after it turned to binary codes, i had to delete it and rewrite it..... 
